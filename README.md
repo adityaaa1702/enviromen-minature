@@ -6,7 +6,7 @@ This repository contains a miniature environment model created using Blender. Th
 
 ## Preview
 
-[![Miniature Environment Preview](enviroment1.png)](ENVIROMENT.zip)
+[![Miniature Environment Preview](enviroment2.jpg)](ENVIROMENT.zip)
 
 Click on the image above to download the ZIP file containing the miniature environment model.
 
